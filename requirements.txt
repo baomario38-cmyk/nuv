@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+Flask
+numpy
+scipy
+gunicorn
